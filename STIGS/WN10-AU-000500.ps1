@@ -19,12 +19,9 @@
     PowerShell Ver. : 
 
 .USAGE
-    Put any usage instructions here.
+    Enter below command into powershell and execute it, it will create registry that will set the maximum size for the event logs for Windows Application.
    
     PS C:\> .\WN10-AU-000500.ps1 
-#>
-
-
 
 #CODE 
 
